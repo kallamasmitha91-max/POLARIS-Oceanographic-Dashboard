@@ -2,5 +2,5 @@
   "name": "POLARIS Oceanographic Dashboard",
   "description": "Real-time oceanographic telemetry, interactive 3D ocean digital twin, submersible CTD sensor profiling, 3D buoy attitude gyro, GNSS positioning, and ESP32 ingestion in Kage minimalist style.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": []
 }
